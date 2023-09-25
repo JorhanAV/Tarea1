@@ -2,5 +2,17 @@ body{
     background-image: url('img/fondo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    font-size: 12px;
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #161614;
+    line-height: 18px;
     
+}
+
+.contenedor{
+    display: flex;
+}
+
+.caja{
+    margin-left: 150px;
 }
