@@ -14,7 +14,10 @@ body{
 }
 
 .caja{
-    margin-left: 150px;
+    margin-left: 320px;
+    background-color: rgb(250, 250, 241);
+    font-size: 15px;
+    text-align: center;
 }
 .caja2{
     margin-left: 100px;
@@ -33,4 +36,20 @@ a{
 
 a:hover{
     text-decoration: underline;
+}
+
+.table{
+    margin-left: 500px;
+    background-color: rgb(250, 250, 241);
+    font-size: 15px;
+}
+
+.info{
+    font-size: 15px;
+    color: rgb(8, 8, 8);
+    text-align: right;
+}
+
+.img{
+    margin-left: 1000px;
 }
