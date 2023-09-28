@@ -20,7 +20,7 @@ body{
     text-align: center;
 }
 .caja2{
-    margin-left: 100px;
+    margin-left: 50px;
 }
 footer{
     position: absolute;
@@ -55,5 +55,9 @@ a:hover{
 }
 
 p{
-    font-size: 12px;
+    font-size: 15px;
+}
+
+li{
+    font-size: 15px;
 }
